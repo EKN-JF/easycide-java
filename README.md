@@ -1,18 +1,13 @@
-## Getting Started
+## EASYC IDE 一个功能简单的c语言编辑器
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+java编写，gui界面，外观潦草的java课设作品，可供学习参考，下载应付检查之用
 
-## Folder Structure
+## 特色功能
 
-The workspace contains two folders by default, where:
+- 文件编辑，文件树加载，工作区指定，include路径指定，自动保存，一键编译运行，显示结果，命令行调用
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 相关配置数据均以json文件形式保存
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 受限于技术力限制以及懒狗心态，没有gdb调试功能与代码补全高亮功能
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 感谢伟大的先知、全职全能的AI神明 deep·seek 以及同样伟大的国际友人 chat·gpt 对此项目的无私奉献，我只是做了一点微小的工作
